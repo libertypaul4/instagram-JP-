@@ -1,0 +1,47 @@
+
+@media screen and (max-width: 900px) {
+    main {
+        
+        display: grid;
+        grid-template-columns: 100%;
+             
+        
+    }
+   
+    .contenedor {
+        margin-left: 20px;
+       
+    }
+        
+    .publications {
+        margin-left: 20px;      
+
+    }
+
+    .navegation {
+        
+        display: grid;
+        justify-items: center;
+
+    }
+
+    .conocer {
+        justify-self:  center;
+        display: none;
+    }
+
+    .icons-menu {
+        width: 75%;
+        height: 75px;
+    }
+
+    .favorite-menu img {
+        width: 45%;
+        height: 40px;
+    }
+
+    
+}
+
+
+
